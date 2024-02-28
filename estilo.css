@@ -1,33 +1,78 @@
 *{
-    padding: 0;
-    margin: 0;
-  }
-  
-  .fundo{
-     width: 100%;
-     background: linear-gradient(180deg, #FF769F 0%, rgba(244, 170, 192, 0.00) 60.5%, rgba(255, 106, 151, 0.13) 99.1%, rgba(111, 58, 74, 0.00) 100%);
+  padding: 0;
+  margin: 0;
+}
+
+.fundo{
+   width: 100%;
+   background: linear-gradient(180deg, #FF769F 0%, rgba(244, 170, 192, 0.00) 60.5%, rgba(255, 106, 151, 0.13) 99.1%, rgba(111, 58, 74, 0.00) 100%);
+position: absolute;
+ height: 900px;
+ overflow: hidden;
+ height: 100%;
+}
+
+.titulo{
+  text-align: center;
+  font-size: 66px;
+  font-family: Georgia;
   position: absolute;
-   height: 900px;
-   overflow: hidden;
-   height: 100%;
-  }
+  text-align: center;
+  top: 49px;
+left: 579px;
+  color:rgba(123, 2, 2, 1)
+   }
 
-  .titulo{
-    text-align: center;
-    font-size: 66px;
-    font-family: Georgia;
-    position: absolute;
-    text-align: center;
-    top: 49px;
- left: 579px;
-    color:rgba(123, 2, 2, 1)
-     }
+.um{
+position: absolute;
+top: 275px;
+left: 307px;
+font-size: 50px;
+text-align: center;
+color: rgb(208, 112, 149)
+}    
 
- .um{
-   position: absolute;
-   top: 302px;
-   left: 200px;
-   font-size: 50px;
-   text-align: center;
-   color: aliceblue;
- }    
+.dois{
+position: absolute;
+top: 376px;
+left: 307px;
+font-size: 50px;
+text-align: center;
+color: rgb(213, 145, 171);
+}    
+
+.tres{
+position: absolute;
+top: 477px;
+left: 307px;
+font-size: 50px;
+text-align: center;
+color: rgb(255, 212, 228);
+}    
+
+.quatro{
+position: absolute;
+top: 579px;
+left: 307px;
+font-size: 50px;
+text-align: center;
+color: rgb(255, 212, 228);
+}  
+
+.cinco{
+position: absolute;
+top: 674px;
+left: 307px;
+font-size: 50px;
+text-align: center;
+color: rgb(213, 145, 171);
+}  
+
+.seis{
+position: absolute;
+top: 772px;
+left: 307px;
+font-size: 50px;
+text-align: center;
+color: rgb(208, 112, 149)
+}  
