@@ -76,3 +76,33 @@ font-size: 50px;
 text-align: center;
 color: rgb(208, 112, 149)
 }  
+
+.livro{
+  position: relative;
+  top: 244px;
+  width: 124px;
+  left: 94px;
+}
+ 
+.chapeu{
+  position: relative;
+width: 124px;
+top: 355px;
+left: -37px;
+}
+
+.cone{
+  top: 50px;
+}
+
+.mundo{
+  top: 60px;
+}
+
+.dinheiro{
+  top: 65px ;
+}
+
+.bola{
+  top: 70px;
+}
