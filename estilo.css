@@ -87,22 +87,34 @@ color: rgb(208, 112, 149)
 .chapeu{
   position: relative;
 width: 124px;
-top: 355px;
+top: 348px;
 left: -37px;
 }
 
 .cone{
-  top: 50px;
+  position: relative;
+width: 76px;
+top: 403px;
+left: -152px;
 }
 
 .mundo{
-  top: 60px;
+  position: relative;
+  width: 71px;
+  top: 509px;
+  left: -233px;
 }
 
 .dinheiro{
-  top: 65px ;
+  position: relative;
+width: 76px;
+top: 606px;
+left: -313px;
 }
 
 .bola{
-  top: 70px;
+  position: relative;
+  width: 70px;
+  top: 721px;
+  left: -392px;
 }
