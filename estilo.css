@@ -118,3 +118,20 @@ left: -313px;
   top: 721px;
   left: -392px;
 }
+
+.ano{
+  font-size: 66px;
+  font-family: Georgia;
+  position: absolute;
+  text-align: center;
+  top: 49px;
+  left: 1723px;
+  color: rgba(123, 2, 2, 1);
+}
+
+.chapeu1{
+  position: relative;
+  width: 124px;
+  top: 348px;
+  left: -37px;
+}
